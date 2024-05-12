@@ -1,0 +1,3 @@
+# Javascript Code Test Solution
+
+This repository contains a solution for enhancing the `BookSearchApiClient` to accommodate a new book seller API with minimal alterations to the current codebase. It involves the creation of a new class, `XYZBookSellerAPI`, which implements the `BookSellerAPI` interface. Additionally, it requires a straightforward update to the BookSellerAPIFactory to include a case for `xyz`. This approach ensures that the codebase remains both extensible and maintainable.
